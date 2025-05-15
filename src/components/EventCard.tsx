@@ -28,7 +28,7 @@ export default function EventCard({
 }: Props) {
   return (
     <div
-      className={`text-pink-100 ${
+      className={`text-white ${
         !isLast && "border-b-[1px]"
       } border-gray-200 w-full flex flex-row pt-2 pb-6 px-1`}
     >
