@@ -63,15 +63,15 @@ export default function Home() {
             <div className="flex flex-col gap-3 items-center">
               <div className="flex flex-row flex-wrap gap-2 justify-center">
                 <div className="px-4 py-1.5 border-2 border-pink-100 rounded-full text-pink-100 font-[500] hover:bg-pink-100/10 transition-all">
-                  1 PM – 4 PM
+                  11 AM – 2 PM
                 </div>
                 <div className="px-4 py-1.5 border-2 border-pink-100 rounded-full text-pink-100 font-[500] hover:bg-pink-100/10 transition-all">
-                  13 February
+                  21 May
                 </div>
               </div>
               <div className="flex flex-row flex-wrap gap-2 justify-center">
                 <div className="px-4 py-1.5 border-2 border-pink-100 rounded-full text-pink-100 font-[500] hover:bg-pink-100/10 transition-all">
-                  Main Auditorium
+                  G906 - New Building
                 </div>
               </div>
             </div>
