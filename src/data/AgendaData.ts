@@ -2,14 +2,14 @@ export const AgendaData = [
   {
     title: "Welcome Speech",
     time: "1:00 PM",
-    imageURL: "/faces/msthilini.png",
+    imageURL: "/faces/msthilini.jpeg",
     name: "Ms. Thilini",
     position: "Master of Ceremony",
   },
   {
     title: "Year Resolution by Previous Year's President",
     time: "1:10 PM",
-    imageURL: "/faces/dinal.png",
+    imageURL: "/faces/dinal.jpg",
     name: "Pasindu Dinal",
     position: "President, SESC 2024/25",
   },
@@ -20,21 +20,21 @@ export const AgendaData = [
   {
     title: "Year Plan for 2025/26",
     time: "1:25 PM",
-    imageURL: "/faces/pawan.png", 
+    imageURL: "/faces/pawan.png", // Pawan's image
     name: "Pawan Senpura",
     position: "New President, SESC 2025/26",
   },
   {
     title: "Speech by Dr. Kalpani Manathunga",
     time: "1:40 PM",
-    imageURL: "/faces/kalpani.png",
+    imageURL: "/faces/kalpani.jpg",
     name: "Dr. Kalpani Manathunga",
     position: "HOD, SE Department SLIIT",
   },
   {
     title: "Speech by Prof. Nuwan Kodagoda",
     time: "1:55 PM",
-    imageURL: "/faces/nuwan.png",
+    imageURL: "/faces/nuwan.jpg",
     name: "Prof. Nuwan Kodagoda",
     position: "Pro Vice Chancellor, SLIIT",
   },
@@ -45,21 +45,21 @@ export const AgendaData = [
   {
     title: "Speech by Sandithi - Volunteer Experience",
     time: "2:25 PM",
-    imageURL: "/faces/sandamali.png", 
+    imageURL: "/faces/sandamali.png", // Sandithi's image
     name: "Sandithi",
     position: "Past Volunteer, SESC",
   },
   {
-    title: "Speech by Asiri",
+    title: "Speech by Asiri Jayawardena",
     time: "2:35 PM",
-    imageURL: "/faces/ashan.png", // Use appropriate image if available
-    name: "Asiri",
+    imageURL: "/faces/ashan.png", // Asiri's image
+    name: "Asiri Jayawardena",
     position: "Senior Member",
   },
   {
     title: "Speech by Prof. Pradeep Abeygunawardhana",
     time: "2:50 PM",
-    imageURL: "/faces/pradeep.png",
+    imageURL: "/faces/pradeep.png", // Pradeep sir's image
     name: "Prof. Pradeep Abeygunawardhana",
     position: "Dean, Faculty Of Computing, SLIIT",
   },
@@ -70,7 +70,7 @@ export const AgendaData = [
   {
     title: "Speech by President of FCSC",
     time: "3:20 PM",
-    imageURL: "/faces/gokul.png", // Use appropriate image if available
+    imageURL: "/faces/gokul.png", // FCSC President's image
     name: "President of FCSC",
     position: "Faculty of Computing Student Community",
   },
@@ -81,8 +81,9 @@ export const AgendaData = [
   {
     title: "Vote of Thanks",
     time: "3:50 PM",
-    imageURL: "/faces/danushka.png", // Use appropriate image if available
-    name: "Sathnindu",
+    imageURL: "/faces/danushka.png", // Sathnindu's image
+    name: "Sathnindu Kottage",
     position: "Secretary, SESC 2025/26",
   },
 ];
+

@@ -12,7 +12,7 @@ const dm_Sans = DM_Sans({
 export default function Home() {
   return (
     <main
-      className="relative min-h-screen bg-pink-100 sm:pt-10 pb-10"
+      className="relative min-h-screen bg-pink-100 sm:pt-10"
       style={{
         background:
           "radial-gradient(circle at top left, #9DADEB 0%, #002FED 100%)",
