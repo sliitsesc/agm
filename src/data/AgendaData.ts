@@ -4,7 +4,7 @@ export const AgendaData = [
     time: "11:00 AM",
     imageURL: "/faces/msthilini.jpeg",
     name: "Ms. Thilini Jayalath",
-    position: "Master of Ceremony",
+    position: "Senior Lecturer",
   },
   {
     title: "Year Resolution by Past President",
@@ -29,7 +29,7 @@ export const AgendaData = [
     time: "11:40 AM",
     imageURL: "/faces/kalpani.jpg",
     name: "Dr. Kalpani Manathunga",
-    position: "HOD, SE Department SLIIT",
+    position: "HOD, SE Department of SLIIT",
   },
   {
     title: "Speech by Prof. Nuwan Kodagoda",
@@ -47,14 +47,14 @@ export const AgendaData = [
     time: "12:25 PM",
     imageURL: "/faces/sandithi.jpeg", // Sandithi's image
     name: "Sandithi Nethsiluni",
-    position: "Past Volunteer, SESC",
+    position: "Committee Member, SESC 2025/26",
   },
   {
     title: "Speech by Asiri Jayawardena",
     time: "12:35 PM",
     imageURL: "/faces/asiri.jpeg", // Asiri's image
     name: "Asiri Jayawardena",
-    position: "Senior Member",
+    position: "Vice President, SESC 2025/26",
   },
   {
     title: "Speech by Prof. Pradeep Abeygunawardhana",
@@ -72,7 +72,7 @@ export const AgendaData = [
     time: "1:20 PM",
     imageURL: "/faces/chathurma.jpeg", // FCSC President's image
     name: "Chathurma Jayawickrama",
-    position: "President, FCSC",
+    position: "President, FCSC 2025/26",
   },
   {
     title: "Awarding Appointment Letters for New Members",
