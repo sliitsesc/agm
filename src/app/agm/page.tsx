@@ -63,7 +63,7 @@ export default function Home() {
             <div className="flex flex-col gap-3 items-center">
               <div className="flex flex-row flex-wrap gap-2 justify-center">
                 <div className="px-4 py-1.5 border-2 border-pink-100 rounded-full text-pink-100 font-[500] hover:bg-pink-100/10 transition-all">
-                  11 AM – 2 PM
+                  10 AM – 12:30 PM
                 </div>
                 <div className="px-4 py-1.5 border-2 border-pink-100 rounded-full text-pink-100 font-[500] hover:bg-pink-100/10 transition-all">
                   21 May
